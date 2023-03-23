@@ -5,8 +5,8 @@
 <img src="https://img.shields.io/badge/Notion-lightgrey?style=flat-square&logo=Notion&logoColor=white"/>
 
   
-|제목|내용|설명|
+###Experience
+|기간|활동|기타|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|2023.03~|멋쟁이사자처럼 서경대 11기|Django|
+|2023.03~|대학생 연합 IT 벤처 창업동아리 SOPT 32기 iOS 파트|Swift,iOS|
