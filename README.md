@@ -17,5 +17,3 @@
 	<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 </div>
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
