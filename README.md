@@ -1,8 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?text=young%min!&fontSize=40&fontColor=d6ace6)
-<div align="center">
-<a href="https://www.instagram.com/ko.omin" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-lightgrey?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
 <div align="center">
 	
@@ -17,3 +12,12 @@
 	<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 </div>
+
+
+
+<div align="center">
+<a href="https://www.instagram.com/ko.omin" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-lightgrey?style=flat-square&logo=Notion&logoColor=white"/>
+</div>
+<div align="center">
+	
