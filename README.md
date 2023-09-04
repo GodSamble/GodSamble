@@ -17,3 +17,5 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </div>
 <div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osgneb8359)](https://solved.ac/osgneb8359/)
