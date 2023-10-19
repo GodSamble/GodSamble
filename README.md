@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:a82da8&height=300&section=header&text=GodSamble%20&fontSize=40&animation=twinkling&fontColor=d6ace6&rotate=19&&fontAlign=53&&fontAlignY=30&desc=고영민&descAlign=44&descAlignY=10)
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
