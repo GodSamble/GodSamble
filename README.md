@@ -8,7 +8,7 @@
 	<img src="https://img.shields.io/badge/Swift-0D0D0D?style=for-the-badge&logo=Swift&logoColor=orange"/>
  	<img src="https://img.shields.io/badge/RxSwift-0D0D0D?style=for-the-badge&logo=ReactiveX&logoColor=pink"/>
 
-### School 🏫
+### University 🏫
 Seokyeong Univ. Software
 ### Activity 🌊🏄‍♂️
 #### **Like Lion** 
