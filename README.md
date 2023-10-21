@@ -1,10 +1,21 @@
-<div align=center>
-	
+<div align="center">
+
+
+## Hello, I am Youngmin (iOS Dev) 👋 #
+
+### iOS Stack 🔧
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white" /> 
 	<img src="https://img.shields.io/badge/Swift-0D0D0D?style=for-the-badge&logo=Swift&logoColor=orange"/>
  	<img src="https://img.shields.io/badge/RxSwift-0D0D0D?style=for-the-badge&logo=ReactiveX&logoColor=pink"/>
 
-</div>
+### School 🏫
+Seokyeong Univ. Software
+### Activity 🌊🏄‍♂️
+#### **Like Lion** 
+ Backend Django (2023.3 ~ 2023.7) </br>
+#### **GO SOPT** 
+ iOS part (2023.3 ~) </br>
+ Winey iOS developer (DEMODAY 최우수상)
 
 <div align="center">
 <a href="https://www.instagram.com/ko.omin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
