@@ -3,6 +3,7 @@
 
 ## Hello, I am Youngmin (iOS Dev) 👋 #
 
+
 ### iOS Stack 🔧
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white" /> 
 	<img src="https://img.shields.io/badge/Swift-0D0D0D?style=for-the-badge&logo=Swift&logoColor=orange"/>
@@ -10,24 +11,15 @@
 
 ### University 🏫
 Seokyeong Univ. Software
-### Activity 🌊🏄‍♂️
-#### **Like Lion** 
- Backend Django (2023.3 ~ 2023.7) </br>
-#### **GO SOPT** 
- iOS part (2023.3 ~) </br>
- Winey iOS developer (DEMODAY 최우수상)
 
+### Follow me ⤵️
 <div align="center">
 <a href="https://www.instagram.com/ko.omin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <a href="https://velog.io/@osgneb8359" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
 </div>
+	
 
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osgneb8359)](https://solved.ac/osgneb8359/)
-
-<br> 
 
 
 
