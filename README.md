@@ -21,11 +21,8 @@ Seokyeong Univ. Software
 </div>
 	
 
-
-
-
-
-
+### Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=osgneb8359)](https://solved.ac/osgneb8359)
 ## Projects
 
 ### 💸 [게이미피케이션 SNS 절약 앱, 위니<￦iney>!](https://apps.apple.com/kr/app/%EC%9C%84%EB%8B%88-%EC%89%BD%EA%B3%A0-%EC%9E%AC%EB%B0%8C%EB%8A%94-%EA%B8%8D%EC%A0%95%EC%A0%81-%EC%86%8C%EB%B9%84%EC%8A%B5%EA%B4%80-%ED%98%95%EC%84%B1/id6463294662)
