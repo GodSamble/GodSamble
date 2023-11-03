@@ -2,7 +2,7 @@
 
 
 ## Hello, I am Youngmin (iOS Dev) 👋 #
-
+Clean Arc, Moduel, DesignSystem, MVVM, Reactive ... 공부 및 적용중 .. . . .. . . .
 
 ### iOS Stack 🔧
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white" /> 
