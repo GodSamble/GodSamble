@@ -27,7 +27,7 @@ Seokyeong Univ. Software
 
 
 ### 🏃🏻 [짐웨어 이커머스 플랫폼 어플, 애블바디 ABLEBODY](https://apps.apple.com/kr/app/%EC%95%A0%EB%B8%94%EB%B0%94%EB%94%94-%EC%9A%B4%EB%8F%99%EB%B3%B5-%EC%BD%94%EB%94%94-%EC%A7%90%EC%9B%A8%EC%96%B4-%ED%97%AC%EC%8A%A4-%ED%99%88%ED%8A%B8-%EC%95%A0%EC%8A%AC%EB%A0%88%EC%A0%80/id1636830686)
-[Github]([https://github.com/team-winey/Winey-iOS](https://github.com/Smilehunter-ablebody)) / [App Store](https://apps.apple.com/kr/app/%EC%95%A0%EB%B8%94%EB%B0%94%EB%94%94-%EC%9A%B4%EB%8F%99%EB%B3%B5-%EC%BD%94%EB%94%94-%EC%A7%90%EC%9B%A8%EC%96%B4-%ED%97%AC%EC%8A%A4-%ED%99%88%ED%8A%B8-%EC%95%A0%EC%8A%AC%EB%A0%88%EC%A0%80/id1636830686) 
+[App Store](https://apps.apple.com/kr/app/%EC%95%A0%EB%B8%94%EB%B0%94%EB%94%94-%EC%9A%B4%EB%8F%99%EB%B3%B5-%EC%BD%94%EB%94%94-%EC%A7%90%EC%9B%A8%EC%96%B4-%ED%97%AC%EC%8A%A4-%ED%99%88%ED%8A%B8-%EC%95%A0%EC%8A%AC%EB%A0%88%EC%A0%80/id1636830686) 
 
 <img src="https://github.com/GodSamble/GodSamble/assets/105866831/91f5deb8-76f4-4caf-8298-8583126b533c" width=143></img>&nbsp;&nbsp;
 <img src="https://github.com/GodSamble/GodSamble/assets/105866831/72140bbc-3f39-478e-9658-59047ba89737" width=141></img>&nbsp;&nbsp;
