@@ -1,14 +1,14 @@
 <div align="center">
 
 
-## Hello, I am Youngmin Ko (iOS Dev) 👋 #
+## Hello, I'm Youngmin 👋 #
 <div align="center">
 <a href="https://www.instagram.com/ko.omin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <a href="https://ivy-branch-534.notion.site/iOS-Dev-Khan-e21b06c25eca4a668820f1e91583eb6b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <a href="https://velog.io/@osgneb8359" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
 </div>
 
-### iOS Stack 🔧
+### iOS Tech Stack 🔧
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Swift-0D0D0D?style=for-the-badge&logo=Swift&logoColor=orange"/>
 <img src="https://img.shields.io/badge/RxSwift-0D0D0D?style=for-the-badge&logo=ReactiveX&logoColor=pink"/>
