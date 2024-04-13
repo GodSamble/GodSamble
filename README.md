@@ -1,8 +1,12 @@
 <div align="center">
 
 
-## Hello, I am Youngmin (iOS Dev) 👋 #
-
+## Hello, I am Youngmin Ko (iOS Dev) 👋 #
+<div align="center">
+<a href="https://www.instagram.com/ko.omin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="https://ivy-branch-534.notion.site/iOS-Dev-Khan-e21b06c25eca4a668820f1e91583eb6b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<a href="https://velog.io/@osgneb8359" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+</div>
 
 ### iOS Stack 🔧
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white" /> 
@@ -10,22 +14,11 @@
 <img src="https://img.shields.io/badge/RxSwift-0D0D0D?style=for-the-badge&logo=ReactiveX&logoColor=pink"/>
 <img src="https://img.shields.io/badge/UiKit-0D0D0D?style=for-the-badge&logo=Uikit&logoColor=pink"/>
 
-### University 🏫
-Seokyeong Univ. Software
+### University & Company 📚💼
+| University         | Company             |
+|--------------------|---------------------|
+|  서경대 소프트웨어학과 전공  | (주)스마일헌터(경희대 캠퍼스타운)   |
 
-### Company 🏫
-KyeongHee Univ. CampusTown
-
-### Follow me ⤵️
-<div align="center">
-<a href="https://www.instagram.com/ko.omin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-<a href="https://ivy-branch-534.notion.site/iOS-Dev-Khan-e21b06c25eca4a668820f1e91583eb6b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<a href="https://velog.io/@osgneb8359" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
-</div>
-	
-
-### Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=osgneb8359)](https://solved.ac/osgneb8359)
 ## Projects
 
 
@@ -47,3 +40,6 @@ KyeongHee Univ. CampusTown
 <img src="https://github.com/GodSamble/GodSamble/assets/105866831/daa2ef27-2d77-456f-9a12-3d7dfcdf3b4e" width=160></img>&nbsp;&nbsp;
 <img src="https://github.com/GodSamble/GodSamble/assets/105866831/b1e1ca64-0972-440a-9af2-7ac132500151" width=160></img>&nbsp;&nbsp;
 <img src="https://github.com/GodSamble/GodSamble/assets/105866831/688e3026-99f6-45db-9d95-1391711c43ef" width=160></img>
+
+### Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=osgneb8359)](https://solved.ac/osgneb8359)
