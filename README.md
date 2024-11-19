@@ -1,7 +1,7 @@
 <div align="center">
 
 
-## Hello, I'm Youngmin #
+## 테키(Techy)한 개발자보단, 서비스를 운용에 능한 개발자가 되어보자! #
 <div align="center">
 <a href="https://www.instagram.com/ko.omin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <a href="https://ivy-branch-534.notion.site/iOS-Dev-Khan-e21b06c25eca4a668820f1e91583eb6b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
