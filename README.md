@@ -1,34 +1,71 @@
-<div align="center">
+<div align="left">
+
+  ## INTRODUCTION
+
+  ### Hi, my name is Youngmin Ko.
+
+  <br>
+
+  ## University & Company📚💼
+
+  📚 (2020.03.01 ~ 2025.6.15) SeoKyeong Univ: Software Engineering ( Software ) 📚
+  
+  💼 (2024.03.01 ~ 2024.6.15) KyengHee Univ CampusTown, Team ABLEBODY: Mobile App Platform Tech ( iOS ) 💼
+  
+  <br>
+
+  ## Activities
+
+  🍎 [Allen Apple Developer Bootcamp](https://github.com/DeveloperAcademy-POSTECH) @ POSTECH 1st as Junior Learner 🍏
+
+  📱 [SOPT 32nd](https://github.com/GO-SOPT-iOS-Part) as iOS Developer 📱
+
+  👾 [NEXTERS 24th](https://github.com/Nexters) as iOS Developer 👾
+  
+  <br>
+
+  ## PERSONAL ARCHIVE
+
+  📘 [Velog - Id's Identity Project](https://velog.io/@osgneb8359/posts)
+
+  📖 [What Did I Learn ...](https://github.com/GodSamble/TIL_Today_I_Learned)
+
+  🫵 [What Do You Think About This ?](https://github.com/GodSamble/TIL_Today_I_Learned)
+
+  <br>
+
+  ## Projects
+
+  💶 Winey: 절약 게이미피 어플리케이션 SNS [Repository](https://github.com/team-winey/Winey-iOS) 
+
+  👕 ABLEBODY: 헬스의류 이커머스 플랫폼 [Repository](https://github.com/team-winey/Winey-iOS)
+
+  🔑 Bdink: 헬스 강의 플랫폼 [Repository](https://github.com/GodSamble/Buttwink)
 
 
-## 테키(Techy)한 개발자보단, 서비스를 운용에 능한 개발자가 되어보자! #
-<div align="center">
+
+  
+  ## STATUS
+
+  <br>
 <a href="https://www.instagram.com/ko.omin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <a href="https://ivy-branch-534.notion.site/iOS-Dev-Khan-e21b06c25eca4a668820f1e91583eb6b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <a href="https://velog.io/@osgneb8359" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
-</div>
+<br>
 
-### iOS Tech Stack 🔧
+  
+  <br>
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Swift-0D0D0D?style=for-the-badge&logo=Swift&logoColor=orange"/>
 <img src="https://img.shields.io/badge/RxSwift-0D0D0D?style=for-the-badge&logo=ReactiveX&logoColor=pink"/>
 <img src="https://img.shields.io/badge/UiKit-0D0D0D?style=for-the-badge&logo=Uikit&logoColor=pink"/>
-
-### University & Company 📚💼
-| University         | Company             |
-|--------------------|---------------------|
-|  서경대 소프트웨어학과 전공  | (주)스마일헌터(경희대 캠퍼스타운)   |
-
-SOPT 연합동아리 32기 iOS 파트 && 
-경희대학교 [애블바디] 짐웨어 이커머스 어플 창업 (청창사 합격)
+  <br>
 
 
+### Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=osgneb8359)](https://solved.ac/osgneb8359)
 
-
-## Projects
-
-
-### 🏃🏻 [짐웨어 이커머스 플랫폼 어플, 애블바디 ABLEBODY](https://apps.apple.com/kr/app/%EC%95%A0%EB%B8%94%EB%B0%94%EB%94%94-%EC%9A%B4%EB%8F%99%EB%B3%B5-%EC%BD%94%EB%94%94-%EC%A7%90%EC%9B%A8%EC%96%B4-%ED%97%AC%EC%8A%A4-%ED%99%88%ED%8A%B8-%EC%95%A0%EC%8A%AC%EB%A0%88%EC%A0%80/id1636830686)
+  ### 🏃🏻 [짐웨어 이커머스 플랫폼 어플, 애블바디 ABLEBODY](https://apps.apple.com/kr/app/%EC%95%A0%EB%B8%94%EB%B0%94%EB%94%94-%EC%9A%B4%EB%8F%99%EB%B3%B5-%EC%BD%94%EB%94%94-%EC%A7%90%EC%9B%A8%EC%96%B4-%ED%97%AC%EC%8A%A4-%ED%99%88%ED%8A%B8-%EC%95%A0%EC%8A%AC%EB%A0%88%EC%A0%80/id1636830686)
 [App Store](https://apps.apple.com/kr/app/%EC%95%A0%EB%B8%94%EB%B0%94%EB%94%94-%EC%9A%B4%EB%8F%99%EB%B3%B5-%EC%BD%94%EB%94%94-%EC%A7%90%EC%9B%A8%EC%96%B4-%ED%97%AC%EC%8A%A4-%ED%99%88%ED%8A%B8-%EC%95%A0%EC%8A%AC%EB%A0%88%EC%A0%80/id1636830686) 
 
 <img src="https://github.com/GodSamble/GodSamble/assets/105866831/91f5deb8-76f4-4caf-8298-8583126b533c" width=153></img>&nbsp;&nbsp;
@@ -46,6 +83,6 @@ SOPT 연합동아리 32기 iOS 파트 &&
 <img src="https://github.com/GodSamble/GodSamble/assets/105866831/daa2ef27-2d77-456f-9a12-3d7dfcdf3b4e" width=160></img>&nbsp;&nbsp;
 <img src="https://github.com/GodSamble/GodSamble/assets/105866831/b1e1ca64-0972-440a-9af2-7ac132500151" width=160></img>&nbsp;&nbsp;
 <img src="https://github.com/GodSamble/GodSamble/assets/105866831/688e3026-99f6-45db-9d95-1391711c43ef" width=160></img>
+  
+</div>
 
-### Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=osgneb8359)](https://solved.ac/osgneb8359)
