@@ -28,7 +28,7 @@
 
   📱 [SOPT 32nd](https://github.com/GO-SOPT-iOS-Part) as iOS Developer 📱
 
-  👾 [NEXTERS 24th](https://github.com/Nexters) as iOS Developer 👾
+  ~~👾 [NEXTERS 24th](https://github.com/Nexters) as iOS Developer 👾~~
   
   <br>
 
