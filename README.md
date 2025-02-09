@@ -3,6 +3,14 @@
   ## INTRODUCTION
 
   ### Hi, my name is Youngmin Ko.
+  <br>
+<a href="https://www.instagram.com/ko.omin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="https://ivy-branch-534.notion.site/iOS-Dev-Khan-e21b06c25eca4a668820f1e91583eb6b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<a href="https://velog.io/@osgneb8359" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+<br>
+<a href="https://solved.ac/profile/osgneb8359">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=osgneb8359"/>
+</a>
 
   <br>
 
@@ -48,13 +56,6 @@
   ## STATUS
 
   <br>
-<a href="https://www.instagram.com/ko.omin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-<a href="https://ivy-branch-534.notion.site/iOS-Dev-Khan-e21b06c25eca4a668820f1e91583eb6b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<a href="https://velog.io/@osgneb8359" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
-<br>
-
-  
-  <br>
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Swift-0D0D0D?style=for-the-badge&logo=Swift&logoColor=orange"/>
 <img src="https://img.shields.io/badge/RxSwift-0D0D0D?style=for-the-badge&logo=ReactiveX&logoColor=pink"/>
@@ -62,8 +63,14 @@
   <br>
 
 
-### Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=osgneb8359)](https://solved.ac/osgneb8359)
+
+  
+
+
+
+
+
+
 
   ### 🏃🏻 [짐웨어 이커머스 플랫폼 어플, 애블바디 ABLEBODY](https://apps.apple.com/kr/app/%EC%95%A0%EB%B8%94%EB%B0%94%EB%94%94-%EC%9A%B4%EB%8F%99%EB%B3%B5-%EC%BD%94%EB%94%94-%EC%A7%90%EC%9B%A8%EC%96%B4-%ED%97%AC%EC%8A%A4-%ED%99%88%ED%8A%B8-%EC%95%A0%EC%8A%AC%EB%A0%88%EC%A0%80/id1636830686)
 [App Store](https://apps.apple.com/kr/app/%EC%95%A0%EB%B8%94%EB%B0%94%EB%94%94-%EC%9A%B4%EB%8F%99%EB%B3%B5-%EC%BD%94%EB%94%94-%EC%A7%90%EC%9B%A8%EC%96%B4-%ED%97%AC%EC%8A%A4-%ED%99%88%ED%8A%B8-%EC%95%A0%EC%8A%AC%EB%A0%88%EC%A0%80/id1636830686) 
