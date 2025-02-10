@@ -48,7 +48,7 @@
 
   👕 ABLEBODY: 헬스의류 이커머스 플랫폼 [Repository](https://github.com/team-winey/Winey-iOS)
 
-  🔑 Bdink: 헬스 강의 플랫폼 [Repository](https://github.com/GodSamble/Buttwink)
+  💪🏻 Bdink: 헬스 강의 플랫폼 [Repository](https://github.com/GodSamble/Buttwink)
 
 
 
