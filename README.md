@@ -24,7 +24,7 @@
 
   ## Activities
 
-  🍎 [Allen Apple Developer Bootcamp](https://github.com/DeveloperAcademy-POSTECH) 🍏
+  🍎 [Allen Apple Developer Bootcamp] 🍏
 
   📱 [SOPT 32nd](https://github.com/GO-SOPT-iOS-Part) as iOS Developer 📱
 
