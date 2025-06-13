@@ -19,6 +19,8 @@
   📚 (2020.03.01 ~ 2025.6.15) SeoKyeong Univ: Software Engineering ( Software ) 📚
   
   💼 (2024.03.01 ~ 2024.6.15) KyengHee Univ CampusTown, Team ABLEBODY: Mobile App Platform Tech ( iOS ) 💼
+
+  💼 피트니스 온라인 강의 플랫폼 [버딩크] 대표
   
   <br>
 
